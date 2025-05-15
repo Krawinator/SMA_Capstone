@@ -1,0 +1,3 @@
+CLIENT_ID=4TfMIaeZjqTLyJGF6QWiqg
+CLIENT_SECRET=nbarHPToWdvi4KW9pcjxtXos4ew_Ew
+USER_AGENT=mugiwara634
